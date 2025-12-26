@@ -227,3 +227,12 @@ while(nil)do;for w=w,w do;local w={}if(w.w)then;w.w=w.w(w)end;for ww=w.w,w.w,w.w
 ]] .. "\n" .. mp
 io.open(g.out, "w"):write((string.gsub(string.dump(load("  local TITTLE = [[ simple Encrypt By hackers house { Get this encryption for free in my chanel hackers house} ]]\nfunction M()\n" .. Dumpe .. "end M()"), true), "LuaR", "LuaS", 1))):close()
 
+while true do
+if gg.isVisible(true) then
+Jullx4You = 1
+gg.setVisible(false)
+end
+gg.clearResults()
+if Jullx4You == 1 then Main() end
+end
+
